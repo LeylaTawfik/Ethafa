@@ -79,7 +79,7 @@ h6 {
 
 
 p {
-	font-weight:bold;
+	
   font-size: 18px;
   letter-spacing: 0.8px;
   line-height: 28px;
@@ -87,7 +87,7 @@ p {
 }
 
 p.home {
-
+font-weight:bold;
 }
 
 h4 {
