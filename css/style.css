@@ -16,7 +16,7 @@ html {
 
 /* Typography */
 h1,h2,h3, .btn {
-  font-family: 'Khula', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-weight: 400;
   letter-spacing: 1px;
 	text-align: left;
@@ -28,7 +28,8 @@ h1 {
 }
 
 h2 {
-  font-family: Khula-ExtraBold;
+  font-family: 'Lato';
+	font-weight:bold;
   color: #11bbde;
 	font-kerning: 20px;
   font-size: 55px;
