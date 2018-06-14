@@ -1,6 +1,6 @@
 body {
 
-    font-family: sans-serif;
+    font-family: Lato;
     font-weight: 300;
 	}
 
@@ -16,10 +16,10 @@ html {
 
 /* Typography */
 h1,h2,h3, .btn {
-  font-family: sans-serif;
+  font-family: Lato;
   font-weight: 400;
   letter-spacing: 1px;
-	text-align: left;
+text-align: left;
 }
 
 h1 {
@@ -28,7 +28,7 @@ h1 {
 }
 
 h2 {
-  font-family: sans-serif;
+  font-family: Lato;
 	font-weight:bold;
   color: #11bbde;
 	font-kerning: 20px;
@@ -44,7 +44,7 @@ h2 {
 
 h3 {
   color: #11bbde;
-	text-transform: uppercase;
+text-transform: uppercase;
   font-size: 20px;
   line-height: 26px;
   letter-spacing: 1px;
@@ -125,7 +125,7 @@ background-color: #ffffff;
 }
 
 #home p {
-  font-family: sans-serif;
+  font-family: Lato;
 	color:#ffffff;
   text-align: center;
   width: 90%;
